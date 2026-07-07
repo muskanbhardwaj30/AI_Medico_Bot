@@ -25,4 +25,3 @@ AI-powered Medical Report Assistant using RAG.
 - Ollama
 - FAISS
 - ChromaDB
-
