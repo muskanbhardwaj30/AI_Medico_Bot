@@ -1,3 +1,5 @@
+<img width="1456" height="720" alt="Gemini_Generated_Image_ahhar1ahhar1ahha" src="https://github.com/user-attachments/assets/bb617291-d711-4f83-8a6d-f3f3f9694ec3" />
+
 # AI Medico Bot
 
 AI-powered Medical Report Assistant using RAG.
